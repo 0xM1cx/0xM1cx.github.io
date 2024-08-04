@@ -31,7 +31,7 @@ tags: [wireshark, web attacks]
 
 4. Knowing the directory where files uploaded are stored is important for reinforcing defenses against unauthorized access. Which directory is used by the website to store uploaded files?
 
-- Looking further into the extracted files, in the upload(2) HTML response, we can see that a document was moved to the [http://shoporoma.com/reviews/uploads/](http://shoporoma.com/reviews/uploads/`) directory, indicating that the malicious script was stored there.
+- Looking further into the extracted files, in the upload(2) HTML response, we can see that a document was moved to the `http://shoporoma.com/reviews/uploads/` directory, indicating that the malicious script was stored there.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*ozG3rBs0jLdF2E9yq-81uw.png)
 
