@@ -41,7 +41,7 @@ In the future, I hope to work on any of the following roles:
             <br>
          🐤 <a href="https://twitter.com/_m1cx_">Twitter</a>
             <br>
-         ✉️ <a href="mailto:shawnmichaelsudaria14gmail.com">Gmail</a>
+         ✉️ <a href="mailto:shawnmichaelsudaria@proton.me">Gmail</a>
             <br>
          ⚡ <a href="https://www.linkedin.com/in/shawn-michael-sudaria/">LinkedIn</a>
             <br>
