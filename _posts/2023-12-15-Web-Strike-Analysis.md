@@ -1,5 +1,5 @@
 ---
-categories: [CTF Writeup, Network Forensics]
+categories: [DFIR, Network Forensics]
 tags: [wireshark, web attacks]
 ---
 

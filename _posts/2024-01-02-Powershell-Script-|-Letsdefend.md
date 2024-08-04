@@ -1,5 +1,5 @@
 ---
-categories: [CTF Writeup, DFIR]
+categories: [DFIR, DFIR]
 tags: [powershell]
 ---
 
