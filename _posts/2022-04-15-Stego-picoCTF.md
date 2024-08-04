@@ -1,15 +1,12 @@
-
-# $t3go
-
 This is a challenge from the picoCTF 2022 event. https://play.picoctf.org/practice/challenge/305?category=4&originalEvent=70&page=1&search=
 
 ## Description
 
 Download this image and find the flag.
 
-* [https://artifacts.picoctf.net/c/422/pico.flag.png](https://artifacts.picoctf.net/c/422/pico.flag.png)
-> Hints
-> We know the end of the message will be $t3go
+- [https://artifacts.picoctf.net/c/422/pico.flag.png](https://artifacts.picoctf.net/c/422/pico.flag.png)
+  > Hints
+  > We know the end of the message will be $t3go
 
 Seeing how this challenge provides an image and is titled $t3go, its pretty obvious how we would go about this.
 
@@ -23,7 +20,7 @@ I then tried using **exiftool **to see if the flag is hidden as a metadata. Agai
 
 ![](https://cdn-images-1.medium.com/max/2000/1*GMeeh6pDXsyoteOP9UAquA.png)
 
-Finally, I used **zteg**; which is a tool created by the ***zed-0xff***. Just like the other steganography tools it detects hidden data inside PND and BMP.
+Finally, I used **zteg**; which is a tool created by the **_zed-0xff_**. Just like the other steganography tools it detects hidden data inside PND and BMP.
 
 Nonetheless, I typed zsteg pico.flag.png and the flag appeared.
 
