@@ -3,13 +3,11 @@ categories: [CTF Writeup, Steganography]
 tags: [picoCTF 2022]
 ---
 
-This is a challenge from the picoCTF 2022 event. https://play.picoctf.org/practice/challenge/305?category=4&originalEvent=70&page=1&search=
-
 ## Description
 
 Download this image and find the flag.
 
-- [https://artifacts.picoctf.net/c/422/pico.flag.png](https://artifacts.picoctf.net/c/422/pico.flag.png)
+- [Image](https://artifacts.picoctf.net/c/422/pico.flag.png)
   > Hints
   > We know the end of the message will be $t3go
 
