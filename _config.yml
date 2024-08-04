@@ -29,7 +29,7 @@ github:
   username: 0xM1cx # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: __5hun__ # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: shawnmichaelsudaria@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/__5hun__ # change to your twitter homepage
     - https://github.com/0xM1cx # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/Sudaria.Shawn
@@ -96,7 +96,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: ""
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
