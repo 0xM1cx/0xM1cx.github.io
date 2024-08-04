@@ -18,20 +18,20 @@ Decoding the Base64-encoded string reveals the following:
 1. What encoding is the malicious script using?
    **Base64**
 
-1. What parameter in the PowerShell script makes it so that the PowerShell window is hidden when executed?
+2. What parameter in the PowerShell script makes it so that the PowerShell window is hidden when executed?
    **-W Hidden**
 
-1. What parameter in the PowerShell script prevents the user from closing the process?
+3. What parameter in the PowerShell script prevents the user from closing the process?
    **-NonI**
 
-1. What line of code allows the script to interact with websites and retrieve information from them?
+4. What line of code allows the script to interact with websites and retrieve information from them?
    **$WC=New-Object SySTeM.NET.WebCliENt**
 
-1. What is the user agent string that is being spoofed in the malicious script?
+5. What is the user agent string that is being spoofed in the malicious script?
    **Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko**
 
-1. What line of code is used to set the proxy credentials for authentication in the script?
+6. What line of code is used to set the proxy credentials for authentication in the script?
    **$wc.PROxY.CrEdenTialS = [SysTem.NEt.CRedeNTIALCAcHE]::DeFAULTNetWOrKCredENTiAls**
 
-1. When the malicious scripts is executed, what is the URL that the script contacts to download the malicious payload?
-   [\*\*http://98.103.103.170:7443/index.asp](http://98.103.103.170:7443/index.asp`)\*\*
+7. When the malicious scripts is executed, what is the URL that the script contacts to download the malicious payload?
+   **http://98.103.103.170:7443/index[.]asp**
