@@ -8,7 +8,6 @@ order: 4
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
 />
-
 # 👋🏼 I'm Shun
 
 <br>
