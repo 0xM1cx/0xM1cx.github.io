@@ -1,4 +1,10 @@
-
+---
+categories:
+  - CTF Writeup
+  - Reversing
+tags:
+  - Assembly
+---
 > This [site](https://wiki.osdev.org/CPU_Registers_x86-64) is a great reference point for x86_64 CPU architecture registers. 
 
 ---

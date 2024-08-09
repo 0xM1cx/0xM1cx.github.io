@@ -1,6 +1,9 @@
 ---
-categories: [DFIR, DFIR]
-tags: [powershell]
+categories:
+  - DFIR
+  - Malware Analysis
+tags:
+  - powershell
 ---
 
 >**Scenario**

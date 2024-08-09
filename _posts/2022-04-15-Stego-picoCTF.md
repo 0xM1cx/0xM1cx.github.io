@@ -1,6 +1,9 @@
 ---
-categories: [CTF Writeup, Steganography]
-tags: [picoCTF 2022]
+categories:
+  - CTF Writeup
+  - Steganography
+tags:
+  - picoCTF
 ---
 
 
