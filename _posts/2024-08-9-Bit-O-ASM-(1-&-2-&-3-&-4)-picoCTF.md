@@ -1,5 +1,7 @@
 
-> This [site](https://wiki.osdev.org/CPU_Registers_x86-64) is a great reference point for a x86_64 CPU architecture registers. 
+> This [site](https://wiki.osdev.org/CPU_Registers_x86-64) is a great reference point for x86_64 CPU architecture registers. 
+
+---
 ## Bit-O-Asm 1
 
 > **Description**
@@ -97,3 +99,5 @@ The assembly dump:
 In the code at `<+15>` we see `0x9fe1a` being moved to the `rbp-0x4` then on the next line it is being compared to the constant `0x2710`. Then on `<+29>` there is a jump instruction, `jle` means "jump if less than or equal". It that line it will cause the program to jump to the `0x55555555514e` which is `<main+37>` location if the previous line resulted in the first operand(`rbp-0x4`) being less than or equal to `0x2710` else it will just read the next line of code. 
 
 In this case the value at `rbp-0x4`, which is `654874` in decimal, is greater than `0x2710`, which is `10000` in decimal.  Resulting in the jump not occurring. So the next line of code is read, which in this case will subtract the value at `rbp-0x4` to `0x65`, resulting in `0x9fdb5` as difference.  Lastly it will read the `jmp` instruction which will jump to the `0x555555555152` address and in that address it will store the current value of `rbp-0x4` to the `eax` register. Hence, the final value would be the decimal equivalent to the last calculation. 
+
+Thanks for reading :>
