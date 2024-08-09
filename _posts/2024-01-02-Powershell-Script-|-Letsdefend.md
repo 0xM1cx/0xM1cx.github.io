@@ -4,6 +4,7 @@ tags: [powershell]
 ---
 
 >**Scenario**
+
 >You’ve come across a puzzling Base64 script, seemingly laced with malicious intent. Your mission, should you choose to accept it, is to dissect and analyze this script, unveiling its true nature and potential risks. Dive into the code and reveal its secrets to safeguard our digital realm. Good luck on this daring quest!_
 
 By examining the text file, you can observe that it contains a PowerShell command designed to execute a script.
