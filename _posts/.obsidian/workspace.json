@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
+                "file": "2024-01-02-Powershell-Script-|-Letsdefend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
+                "file": "2024-01-02-Powershell-Script-|-Letsdefend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
+                "file": "2024-01-02-Powershell-Script-|-Letsdefend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md"
+                "file": "2024-01-02-Powershell-Script-|-Letsdefend.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "06ba129322e38de8",
   "lastOpenFiles": [
-    "Noxious - HackTheBox.md",
+    "2023-12-15-Web-Strike-Analysis.md",
+    "2022-04-15-Stego-picoCTF.md",
+    "2022-04-15-Basic-File-Exploit-picoCTF.md",
     "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
+    "Noxious - HackTheBox.md",
     "2024-08-9-Reverse-ELF-picoCTF.md"
   ]
 }
