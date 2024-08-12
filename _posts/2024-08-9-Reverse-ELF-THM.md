@@ -45,7 +45,9 @@ So the next step I did was to set a break point at `0xx00000000004006d5` so that
 There you can see that my argument `test` was being compared to the correct password `my_m0r3_secur3_pwd`
 
 We can verify that by running it as the argument:
+
 ![](https://i.imgur.com/JT0P9D4.png)
+
 ## Crackme5
 What will be the input of the file to get output `Good game`?
 
