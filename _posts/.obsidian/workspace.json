@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "83345c28e3eb23d4",
+    "id": "a911ef323fe41db0",
     "type": "split",
     "children": [
       {
-        "id": "4bf42d6f44465cf8",
+        "id": "e7ea2ebed0b0700f",
         "type": "tabs",
         "children": [
           {
-            "id": "06ba129322e38de8",
+            "id": "9712448783226d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-10-Noxious-HTB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9023176cabf62dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
+                "file": "2024-08-10-Carnage-TryHackMe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31b78f7627d938b1",
+    "id": "93a9839a8718afbf",
     "type": "split",
     "children": [
       {
-        "id": "e215dca95317e221",
+        "id": "45a8abcd40d2f57a",
         "type": "tabs",
         "children": [
           {
-            "id": "c36a6e740ded69d9",
+            "id": "b6d96c0fb2f60fc9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "e94085e49df92ca5",
+            "id": "442554efec80de73",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "07b9274c3a2cfdbb",
+            "id": "85938784986ca9e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bd8cd58f526e13e6",
+    "id": "9fd204ba70768097",
     "type": "split",
     "children": [
       {
-        "id": "4eea06cad4fbfe99",
+        "id": "8ea534b153081b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8e6f2915f20b41",
+            "id": "1f78da38384a664a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
+                "file": "2024-08-10-Carnage-TryHackMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "540d95385443bf3f",
+            "id": "850375c28d8353f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
+                "file": "2024-08-10-Carnage-TryHackMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2d18fc60e5d22ec0",
+            "id": "e08fbbc8d411aed6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "a3f7d61d3310ffff",
+            "id": "ddd5f276c62e2358",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md"
+                "file": "2024-08-10-Carnage-TryHackMe.md"
               }
             }
           }
@@ -159,35 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9023176cabf62dea",
+  "active": "9712448783226d72",
   "lastOpenFiles": [
-    "2024-08-10-Noxious-HTB.md",
-    "2024-08-10-Carnage-TryHackMe.md",
     "2024-08-11-Reveal-Cyberdefenders.md",
-    "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
-    "2024-01-02-Powershell-Script-|-Letsdefend.md",
-    "Reveal1.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17.md",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Reveal1.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812151956.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812151710.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144803.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144256.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144031.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812143605.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812143410.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812142809.png",
-    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17",
-    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074/Reveal 17f10ef3a0ff44e79d6b0b10747f7d17.md",
-    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074/Reveal 17f10ef3a0ff44e79d6b0b10747f7d17",
-    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074",
-    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074.zip",
-    "\"./Pasted.md",
-    "\".",
-    "2024-08-9-Reverse-ELF-THM.md",
-    "2023-12-15-Web-Strike-Analysis.md",
     "2022-04-15-Stego-picoCTF.md",
-    "2022-04-15-Basic-File-Exploit-picoCTF.md",
-    "Noxious - HackTheBox.md"
+    "Pasted image 20240812161053.png"
   ]
 }

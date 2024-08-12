@@ -10,28 +10,29 @@ NOTE: DO NOT directly interact with any domains and IP addresses in this challe
 
 ###### 1. What was the date and time for the first HTTP connection to the malicious IP? (**answer format**: yyyy-mm-dd hh:mm:ss)
 We first add a column for the Coordinated Universal Time.
-![](Pasted%20image%2020240811203704.png)
+![](https://i.imgur.com/vQz4IcZ.png)
 
 We then filter for `http` and see the first displayed packet. 
-![](Pasted%20image%2020240811205747.png)
+![](https://i.imgur.com/59yfoYc.png)
 
 ###### 2. What is the name of the zip file that was downloaded?
 For this we can see the files that can be exported by going `File => Export Objects => HTTP`. On that list we see the file name called `documents.zip`
-![](Pasted%20image%2020240811210009.png)
+![](https://i.imgur.com/DUkQNJi.png)
 ###### 3. What was the domain hosting the malicious zip file?
 I got this by doing a Packet list search for the string `documents.zip`. Do this by clicking `ctrl+f`, it opens a new bar. 
-![](Pasted%20image%2020240811210645.png)
+![](https://i.imgur.com/tSLtFA4.png)
 After that we can follow its HTTP stream and see the web request sent with the domain.
-![](Pasted%20image%2020240811210759.png)
+![](https://i.imgur.com/eYswafQ.png)
 ###### 4. Without downloading the file, what is the name of the file in the zip file?
 Looking at server response on the `http` stream we just followed we see a `chart-1530076591.xls` written along the bytes. 
-![](Pasted%20image%2020240811232417.png)
+![](https://i.imgur.com/oWFEGCT.png)
 ###### 5. What is the name of the webserver of the malicious IP from which the zip file was downloaded?
 Looking at the server response headers, we see the name of the server
-![](Pasted%20image%2020240811232552.png)
+![](https://i.imgur.com/lfLDgGN.png)
 ###### 6. What is the version of the webserver from the previous question?
 We can see that in the `x-powered-by` header
-![](Pasted%20image%2020240811232712.png)
+![](https://i.imgur.com/l9NkeYA.png)
+### TO BE CONTINUED
 ###### 7. Malicious files were downloaded to the victim host from multiple domains. What were the three domains involved with this activity?
 
 ###### 8. Which certificate authority issued the SSL certificate to the first domain from the previous question?
