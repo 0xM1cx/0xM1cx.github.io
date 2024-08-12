@@ -1,4 +1,11 @@
-
+---
+categories:
+  - DFIR
+  - Network Forensics
+tags:
+  - TryHackMe
+  - wireshark
+---
 ## Scenario
 Eric Fischer from the Purchasing Department at Bartell Ltd has received an email from a known contact with a Word document attachment.  Upon opening the document, he accidentally clicked on "Enable Content."  The SOC Department immediately received an alert from the endpoint agent that Eric's workstation was making suspicious connections outbound. The pcap was retrieved from the network sensor and handed to you for analysis. 
 
@@ -10,7 +17,7 @@ NOTE: DO NOT directly interact with any domains and IP addresses in this challe
 
 ###### 1. What was the date and time for the first HTTP connection to the malicious IP? (**answer format**: yyyy-mm-dd hh:mm:ss)
 We first add a column for the Coordinated Universal Time.
-![](https://i.imgur.com/vQz4IcZ.png)
+![](../assets/img/carnage/Carnage0.png)
 
 We then filter for `http` and see the first displayed packet. 
 ![](https://i.imgur.com/59yfoYc.png)
