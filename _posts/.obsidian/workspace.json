@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Noxious - HackTheBox.md",
+                "file": "2024-08-10-Noxious-HTB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9023176cabf62dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bd8cd58f526e13e6",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Noxious - HackTheBox.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Noxious - HackTheBox.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Noxious - HackTheBox.md"
+                "file": "2024-08-11-Reveal-Cyberdefenders.md"
               }
             }
           }
@@ -147,11 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06ba129322e38de8",
+  "active": "9023176cabf62dea",
   "lastOpenFiles": [
+    "2024-01-02-Powershell-Script-|-Letsdefend.md",
+    "2024-08-11-Reveal-Cyberdefenders.md",
+    "Pasted image 20240812151956.png",
+    "Pasted image 20240812151710.png",
+    "Pasted image 20240812144803.png",
+    "Pasted image 20240812144256.png",
+    "Pasted image 20240812144253.png",
+    "Pasted image 20240812144031.png",
+    "Pasted image 20240812144003.png",
+    "Pasted image 20240812143605.png",
+    "Pasted image 20240812143410.png",
+    "Pasted image 20240812142809.png",
+    "2024-08-10-Noxious-HTB.md",
+    "2024-08-10-Carnage-TryHackMe.md",
     "2024-08-9-Reverse-ELF-THM.md",
     "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
-    "2024-01-02-Powershell-Script-|-Letsdefend.md",
     "2023-12-15-Web-Strike-Analysis.md",
     "2022-04-15-Stego-picoCTF.md",
     "2022-04-15-Basic-File-Exploit-picoCTF.md",
