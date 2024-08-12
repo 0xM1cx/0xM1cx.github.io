@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md",
+                "file": "2024-08-9-Reverse-ELF-THM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md",
+                "file": "2024-08-9-Reverse-ELF-THM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md",
+                "file": "2024-08-9-Reverse-ELF-THM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md"
+                "file": "2024-08-9-Reverse-ELF-THM.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "9712448783226d72",
   "lastOpenFiles": [
-    "2024-08-10-Noxious-HTB.md",
+    "Pasted image 20240812182241.png",
+    "Pasted image 20240812172720.png",
     "2024-08-10-Carnage-TryHackMe.md",
+    "2024-08-10-Noxious-HTB.md",
     "2024-08-11-Reveal-Cyberdefenders.md",
     "2022-04-15-Stego-picoCTF.md",
     "Pasted image 20240812161053.png"
