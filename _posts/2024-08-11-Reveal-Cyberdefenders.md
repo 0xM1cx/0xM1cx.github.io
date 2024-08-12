@@ -15,7 +15,7 @@ Your task is to delve into the provided memory dump from the compromised system.
 ## Questions
 ###### 1. Identifying the name of the malicious process helps in understanding the nature of the attack. What is the name of the malicious process?
 Running the `windows.pstree` option on Volatility 3, I noticed that powershell ran 2 child processes
-![[Pasted image 20240812142319.png]]
+![iamge](./Reveal1.png)
 
 Although both processes are legitimate Windows utilities, there seemed to be an oddity with Powershell initiating a networking utility. Perhaps it was utilized for communication with a C2 server or another external IP address. The next step would be to view the commands that were issued, as this was a `powershell.exe`. Upon executing the `windows.cmdline` option to view the commands, I observed something on the `powershell.exe` file.
 
