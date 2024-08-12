@@ -23,11 +23,9 @@
             "id": "9023176cabf62dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
-                "mode": "source",
-                "source": false
+                "file": "Reveal1.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
+                "file": "Reveal1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
+                "file": "Reveal1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md"
+                "file": "Reveal1.png"
               }
             }
           }
@@ -161,21 +159,26 @@
   },
   "active": "9023176cabf62dea",
   "lastOpenFiles": [
-    "Reveal1.png",
     "2024-08-11-Reveal-Cyberdefenders.md",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17.md",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Reveal1.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812151956.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812151710.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144803.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144256.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812144031.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812143605.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812143410.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Pasted_image_20240812142809.png",
+    "Reveal 17f10ef3a0ff44e79d6b0b10747f7d17",
+    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074/Reveal 17f10ef3a0ff44e79d6b0b10747f7d17/Reveal1.png",
+    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074/Reveal 17f10ef3a0ff44e79d6b0b10747f7d17.md",
+    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074/Reveal 17f10ef3a0ff44e79d6b0b10747f7d17",
+    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074",
+    "dbb8af96-0cbc-49cf-92cd-4fdb58872496_Export-d9e88f64-fa06-4ca8-b446-bac6b87a0074.zip",
     "\"./Pasted.md",
     "\".",
     "2024-01-02-Powershell-Script-|-Letsdefend.md",
-    "Pasted image 20240812151956.png",
-    "Pasted image 20240812151710.png",
-    "Pasted image 20240812144803.png",
-    "Pasted image 20240812144256.png",
-    "Pasted image 20240812144253.png",
-    "Pasted image 20240812144031.png",
-    "Pasted image 20240812144003.png",
-    "Pasted image 20240812143605.png",
-    "Pasted image 20240812143410.png",
-    "Pasted image 20240812142809.png",
     "2024-08-10-Noxious-HTB.md",
     "2024-08-10-Carnage-TryHackMe.md",
     "2024-08-9-Reverse-ELF-THM.md",
