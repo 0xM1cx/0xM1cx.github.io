@@ -5,6 +5,7 @@ categories:
 tags:
   - Volatility
   - CTI
+  - Stealer
 ---
 ## Scenario
 As a cybersecurity analyst for a leading financial institution, an alert from your SIEM solution has flagged unusual activity on an internal workstation. Given the sensitive financial data at risk, immediate action is required to prevent potential breaches.
