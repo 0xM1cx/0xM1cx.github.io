@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-9-Reverse-ELF-THM.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-9-Reverse-ELF-THM.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-9-Reverse-ELF-THM.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-9-Reverse-ELF-THM.md"
+                "file": "2024-08-11-Reveal-Cyberdefenders.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9712448783226d72",
   "lastOpenFiles": [
+    "2024-08-9-Reverse-ELF-THM.md",
     "2024-08-10-Carnage-TryHackMe.md",
     "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
-    "2024-08-9-Reverse-ELF-THM.md",
     "Pasted image 20240812182241.png",
     "Pasted image 20240812172720.png",
     "2024-08-10-Noxious-HTB.md",
