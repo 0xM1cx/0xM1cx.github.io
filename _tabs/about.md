@@ -16,8 +16,6 @@ order: 4
 
 I'm an undergrad student who is passionate about tech and curious on how systems work. Focusing on Digital Forensics, IoT, Data Analysis, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
 
-Played some CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/p/m1cx), [BlueTeamLabs.Online](https://blueteamlabs.online/public/user/aea03fbb77f37ab350c70b), [LetsDefend](https://app.letsdefend.io/user/shun), [TryHackMe](https://tryhackme.com/p/5hun) and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)
-
 ### What I'm doing currently and some plan
 
 I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise. I do game dev every now and then, specifically 2d games using Godot.
@@ -38,7 +36,7 @@ In the future, I hope to work on any of the following roles:
         <td valign="top" width="100%">
          💬 <a href="mailto:shawnmichaelsudaria@proton.me">Protonmail</a>
             <br>
-         🐤 <a href="https://twitter.com/_m1cx_">Twitter</a>
+         🐤 <a href="https://x.com/__5hun__">Twitter</a>
             <br>
          ✉️ <a href="mailto:shawnmichaelsudaria@proton.me">Gmail</a>
             <br>
