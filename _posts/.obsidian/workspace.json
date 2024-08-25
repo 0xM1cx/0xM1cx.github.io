@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
+                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md"
+                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "4700b45f02faa670",
   "lastOpenFiles": [
-    "Blue - TryHackMe.md",
-    "2024-08-11-Reveal-Cyberdefenders.md",
+    "2024-08-10-Noxious-HTB.md",
     "2024-08-25-Brutus-HackTheBox-Writeup.md",
+    "Blue - TryHackMe.md",
+    "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
     "EVSU Adventures.md",
     "EVSU Adventures.md",
     "2024-08-9-Reverse-ELF-THM.md",
@@ -166,7 +167,6 @@
     "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
     "Pasted image 20240812182241.png",
     "Pasted image 20240812172720.png",
-    "2024-08-10-Noxious-HTB.md",
     "2022-04-15-Stego-picoCTF.md",
     "Pasted image 20240812161053.png"
   ]
