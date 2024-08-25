@@ -35,16 +35,18 @@ To obtain the exact timestamp, we need to extract it from the `wtmp` file. This 
 Looking back at the `auth.log` we can see the session number assigned. 
 
 ![](https://i.imgur.com/8tUyW7q.png)
+
 ###### The attacker added a new user as part of their persistence strategy on the server and gave this new user account higher privileges. What is the name of this account?
 
 In the `auth.log`, right after the system assigned the user a session ID of 37, we see logs related to adding a user and setting up its group
 
 ![](https://i.imgur.com/YmEOfkT.png)
+
 ###### What is the MITRE ATT&CK sub-technique ID used for persistence?
 
 We know that the attacker created a new local account as a means of establishing persistence on the compromised host.
 
-So going to the [ATT&CK Matrix]() under the Persistence technique `T1136` there is a sub-technique of using a local account with the ID of `T1136.001`
+So going to the [ATT&CK Matrix](https://attack.mitre.org/matrices/enterprise/) under the Persistence technique `T1136` there is a sub-technique of using a local account with the ID of `T1136.001`
 
 ![](https://i.imgur.com/aNEmxIM.png)
 
@@ -55,6 +57,7 @@ So going to the [ATT&CK Matrix]() under the Persistence technique `T1136` there 
 We already obtained the timestamp in question 3. Now, we can calculate the difference between when the session was created and when the user logged out.
 
 ![](https://i.imgur.com/gfG4OgI.png)
+
 ###### The attacker logged into their backdoor account and utilized their higher privileges to download a script. What is the full command executed using sudo?
 
 The `auth.log` recorded the command because it was executed with `sudo` privileges, which required authentication. By examining the last part of the logs, we can see that the backdoor account `cyberjunkie` ran a command.
