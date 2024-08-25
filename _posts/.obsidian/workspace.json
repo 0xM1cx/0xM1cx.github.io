@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9712448783226d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4700b45f02faa670",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,9 +156,9 @@
   },
   "active": "4700b45f02faa670",
   "lastOpenFiles": [
-    "2024-08-25-Brutus-HackTheBox-Writeup.md",
-    "2024-08-11-Reveal-Cyberdefenders.md",
     "Blue - TryHackMe.md",
+    "2024-08-11-Reveal-Cyberdefenders.md",
+    "2024-08-25-Brutus-HackTheBox-Writeup.md",
     "EVSU Adventures.md",
     "EVSU Adventures.md",
     "2024-08-9-Reverse-ELF-THM.md",
