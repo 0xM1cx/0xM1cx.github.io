@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
+                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
+                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
+                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-11-Reveal-Cyberdefenders-Writeup.md"
+                "file": "2024-08-25-Brutus-HackTheBox-Writeup.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "4700b45f02faa670",
   "lastOpenFiles": [
+    "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
     "2024-08-10-Noxious-HTB.md",
     "2024-08-25-Brutus-HackTheBox-Writeup.md",
     "Blue - TryHackMe.md",
-    "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
     "EVSU Adventures.md",
     "EVSU Adventures.md",
     "2024-08-9-Reverse-ELF-THM.md",
