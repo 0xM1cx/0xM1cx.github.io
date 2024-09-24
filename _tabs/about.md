@@ -55,3 +55,21 @@ In the future, I hope to work on any of the following roles:
     <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps,gcp&perline=10" alt="skills icon"/>
   </a>
 </p>
+
+### Achievements 🏆
+
+##### 2nd Runner Up, HackForGov Regionals 2023
+
+> Competed as a member of team Hydra in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines w/ the National Computer Emergency Response Team (NCERT).
+
+##### 2nd RUnner Up, HackForGov Regionals 2024
+
+> Competed as a team captain of team PWNED in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines w/ the National Computer Emergency Response Team (NCERT).
+
+##### Wildcard Member, HackForGov 2024
+
+> Awarded as one of the top performing individuals in the competition and was picked to be part of a wildcard team for the H4G Nationals.
+
+##### Top 22, Trend Micro CTF Finals 2024
+
+> Competed as a team captain of team Katipwneros in a Capture The Flag (CTF) competition. Hosted by Trend Micro.
