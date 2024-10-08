@@ -75,3 +75,7 @@ In the future, I hope to work on any of the following roles:
 #### Top 22, Trend Micro CTF Finals 2024
 
 > Competed as a team captain of team Katipwneros in a Capture The Flag (CTF) competition. Hosted by Trend Micro.
+
+#### Top 6, HackForGov Finals
+
+> Competed as a member of team ACES, a wildcard team composed of top perfoming individuals from Region 1, Region 2, CAR and Region 8(me).
