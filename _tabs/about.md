@@ -62,20 +62,16 @@ In the future, I hope to work on any of the following roles:
 
 #### 2nd Runner Up, HackForGov Regionals 2023
 
-> Competed as a member of team Hydra in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines w/ the National Computer Emergency Response Team (NCERT).
+> Competed as a member of team Hydra in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines.
 
 #### 2nd RUnner Up, HackForGov Regionals 2024
 
-> Competed as a team captain of team PWNED in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines w/ the National Computer Emergency Response Team (NCERT).
-
-#### Wildcard Member, HackForGov 2024
-
-> Awarded as one of the top performing individuals in the competition and was picked to be part of a wildcard team for the H4G Nationals.
+> Competed as a team captain of team PWNED in a Capture The Flag (CTF) competition. Hosted by the Department of Information and Communications Technology of the Philippines.
 
 #### Top 22, Trend Micro CTF Finals 2024
 
-> Competed as a team captain of team Katipwneros in a Capture The Flag (CTF) competition. Hosted by Trend Micro.
+> Competed as a team captain of team Katipwneros in a Capture The Flag (CTF) competition. Placed 22nd out of 187 teams. Hosted by Trend Micro.
 
-#### Top 6, HackForGov Finals
+#### Top 6, HackForGov Finals 2024
 
-> Competed as a member of team ACES, a wildcard team composed of top perfoming individuals from Region 1, Region 2, CAR and Region 8(me).
+> Competed as a member of team ACES, a wildcard team composed of top perfoming individuals from Region 1, Region 2, CAR and Region 8(me). Placed 6th out of 20 teams from different regions across the country. Held at Parañaque City, hosted by the Department of Information and Communications Technology of the Philippines.
