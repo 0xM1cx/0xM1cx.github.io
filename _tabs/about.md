@@ -12,7 +12,7 @@ order: 4
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
 
 I'm an undergrad student who is passionate about tech and curious on how systems work. Focusing on Digital Forensics, IoT, Data Analysis, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
 
