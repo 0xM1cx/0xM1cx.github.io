@@ -16,10 +16,10 @@ timezone: Asia/Manila
 
 title: Shun
 
-tagline: A repo for IoT, RE, CTI and DFIR writeups # it will display as the sub-title
+tagline: My Cybersecurity, IoT and I.T. publications # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A site to house my IoT, RE, CTI, DFIR writeups.
+  A site to showcase my IoT, RE, CTI, DFIR publications.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
