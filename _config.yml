@@ -16,7 +16,7 @@ timezone: Asia/Manila
 
 title: Shun
 
-tagline: My publications on Cybersecurity, IoT, and IT # it will display as the sub-title
+tagline: My publications on Cybersecurity, IoT, and IT research # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A site to showcase my IoT, RE, CTI, DFIR publications.
