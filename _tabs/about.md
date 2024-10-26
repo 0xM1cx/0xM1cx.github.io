@@ -14,20 +14,7 @@ order: 4
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
 
-I'm an undergrad student who is passionate about tech and curious on how systems work. Focusing on Digital Forensics, IoT, Data Analysis, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
-
-### What I'm doing currently and some plan
-
-I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise. I do game dev every now and then, specifically 2d games using Godot.
-
-In the future, I hope to work on any of the following roles:
-
-1. DFIR
-2. Data Analyst
-3. Data Scientist
-4. Threat Researcher
-5. SOC Analyst
-6. Malware Analyst
+I'm an undergrad student who is passionate about tech and curious on how systems work. My focus is on Digital Forensics & Incident Response, IoT, Data Analysis, Reverse Engineering, and Threat Intelligence. This site serves as a chill space for articles on security research, technical blogs, and CTF write-ups.
 
 ### Socials 💬
 
@@ -47,14 +34,6 @@ In the future, I hope to work on any of the following roles:
 </td>
 </tr>
 </table>
-
-### Some Tools I've Used 🛠️
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps,gcp&perline=10" alt="skills icon"/>
-  </a>
-</p>
 
 ---
 
