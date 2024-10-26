@@ -14,7 +14,7 @@ order: 4
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
 
-I'm an undergrad student who is passionate about tech and curious on how systems work. My focus is on Digital Forensics & Incident Response, IoT, Data Analysis, Reverse Engineering, and Threat Intelligence. This site serves as a chill space for articles on security research, technical blogs, and CTF write-ups.
+I'm currently an undergrad(junior) student, soon to be masters student🤞, who is passionate about tech and curious on how systems work. My focus is on Digital Forensics & Incident Response, IoT, Data Analysis, Reverse Engineering, and Threat Intelligence. This site serves as a chill space for articles on security research, technical blogs, and CTF write-ups.
 
 ### Socials 💬
 
