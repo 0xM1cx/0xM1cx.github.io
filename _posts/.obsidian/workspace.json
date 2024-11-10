@@ -20,14 +20,19 @@
             }
           },
           {
-            "id": "214a61baf44f2f6e",
+            "id": "38b83ae4add7756b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Malware Analysis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md",
+                "file": "Malware Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md",
+                "file": "Malware Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-10-Carnage-TryHackMe.md"
+                "file": "Malware Analysis.md"
               }
             }
           }
@@ -154,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4700b45f02faa670",
+  "active": "38b83ae4add7756b",
   "lastOpenFiles": [
+    "2024-08-10-Carnage-TryHackMe.md",
+    "Malware Analysis.md",
     "2024-08-10-Noxious-HTB.md",
     "2024-08-11-Reveal-Cyberdefenders-Writeup.md",
     "2024-08-25-Brutus-HackTheBox-Writeup.md",
@@ -163,7 +170,6 @@
     "EVSU Adventures.md",
     "EVSU Adventures.md",
     "2024-08-9-Reverse-ELF-THM.md",
-    "2024-08-10-Carnage-TryHackMe.md",
     "2024-08-9-Bit-O-ASM-(1-&-2-&-3-&-4)-picoCTF.md",
     "Pasted image 20240812182241.png",
     "Pasted image 20240812172720.png",
