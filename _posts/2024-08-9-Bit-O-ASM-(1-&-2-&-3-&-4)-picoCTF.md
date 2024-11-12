@@ -4,8 +4,10 @@ categories:
   - Reversing
 tags:
   - Assembly
-layout: default
-comments: true
+layout:
+  - default
+comments:
+  - true
 ---
 
 > This [site](https://wiki.osdev.org/CPU_Registers_x86-64) is a great reference point for x86_64 CPU architecture registers.

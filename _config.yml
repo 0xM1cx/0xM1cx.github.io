@@ -118,7 +118,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: # 0xShun/0xShun.github.io
     repo_id:
     category:
     category_id:
