@@ -55,3 +55,5 @@ An anomaly was discovered within our company’s intranet when the Development t
 #### **Summary**
 
 In this scenario, the attacker found a file upload vulnerability wherein they were able to upload a malicious PHP script (`upload(2).php`). With that script, it then executed a shell that connected back to the attacker, allowing for backdoor access into the system. After gaining reverse shell access, the attacker performed reconnaissance on the environment, determining the directory, files, and the username of the account in the system. Afterward, the attacker exfiltrated the `passwd` file containing passwords for different accounts.
+
+{% include comments.html %}
