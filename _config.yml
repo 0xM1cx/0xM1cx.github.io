@@ -111,15 +111,15 @@ comments:
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: shun-1 # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # 0xShun/0xShun.github.io
-    repo_id:
+    repo: 0xShun/0xShun-comments
+    repo_id: 886807850
     category:
     category_id:
     mapping: # optional, default to 'pathname'
