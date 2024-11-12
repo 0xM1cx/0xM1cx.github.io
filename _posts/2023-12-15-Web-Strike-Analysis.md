@@ -5,9 +5,11 @@ layout: default
 comments: true
 ---
 
-> Scenario
+# Web Strike Analysis
 
-> An anomaly was discovered within our company’s intranet when the Development team found an unusual file on one of our web servers. Suspecting potential malicious activity, the network team has prepared a pcap file with critical network traffic for analysis by the security team, and you have been tasked with analyzing the pcap.
+## Scenario
+
+An anomaly was discovered within our company’s intranet when the Development team found an unusual file on one of our web servers. Suspecting potential malicious activity, the network team has prepared a pcap file with critical network traffic for analysis by the security team, and you have been tasked with analyzing the pcap.
 
 ###### 1. Understanding the geographical origin of the attack aids in geo-blocking measures and threat intelligence analysis. What city did the attack originate from?
 
