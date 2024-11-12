@@ -1,7 +1,7 @@
 ---
 categories: [DFIR, Network Forensics]
 tags: [wireshark, web attacks]
-layout: post
+layout: page
 comments: true
 ---
 
