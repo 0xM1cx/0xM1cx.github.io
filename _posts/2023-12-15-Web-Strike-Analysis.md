@@ -1,7 +1,10 @@
 ---
 categories: [DFIR, Network Forensics]
 tags: [wireshark, web attacks]
+layout: default
+comments: true
 ---
+
 > Scenario
 
 > An anomaly was discovered within our company’s intranet when the Development team found an unusual file on one of our web servers. Suspecting potential malicious activity, the network team has prepared a pcap file with critical network traffic for analysis by the security team, and you have been tasked with analyzing the pcap.
@@ -49,3 +52,26 @@ tags: [wireshark, web attacks]
 ###### **Summary**
 
 In this scenario, the attacker found a file upload vulnerability wherein they were able to upload a malicious PHP script (`upload(2).php`). With that script, it then executed a shell that connected back to the attacker, allowing for backdoor access into the system. After gaining reverse shell access, the attacker performed reconnaissance on the environment, determining the directory, files, and the username of the account in the system. Afterward, the attacker exfiltrated the `passwd` file containing passwords for different accounts.
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://shun-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
