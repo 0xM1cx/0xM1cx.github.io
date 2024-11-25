@@ -16,10 +16,10 @@ timezone: Asia/Manila
 
 title: Shun
 
-tagline: My publications on Cybersecurity, IoT, and IT research # it will display as the sub-title
+tagline: My publications on Cybersecurity, IoT, Data Analytics, and IT research # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A site to showcase my IoT, RE, CTI, DFIR publications.
+  A site to showcase my Data Analytics, RE, CTI, DFIR publications.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
