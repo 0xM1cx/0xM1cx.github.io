@@ -7,8 +7,6 @@ tags:
   - Global Terrorism Research
 ---
 
-# Global Terrorism in Numbers: A Data Analytics Study
-
 ```python
 import pandas as pd
 df = pd.read_csv('./globalterrorismdb.csv', low_memory=False, engine='c')
