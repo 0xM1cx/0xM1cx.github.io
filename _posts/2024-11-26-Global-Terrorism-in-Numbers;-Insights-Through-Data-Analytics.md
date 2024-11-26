@@ -7,11 +7,6 @@ tags:
   - Global Terrorism Research
 ---
 
-```python
-import pandas as pd
-df = pd.read_csv('./globalterrorismdb.csv', low_memory=False, engine='c')
-```
-
 ## Overview
 
 What drives terrorism trends across the globe? The **Global Terrorism Database (GDT)** holds the answers, tracking over 200,000 incidents worldwide. The goal is to uncover patterns in hotspots, tactics, and casualties over time. By analyzing the GTD, we gain insights into trends such as the methods, regions, and targets involved in terrorism, as well as the political, economic, and social contexts that drive these violent acts.
@@ -29,6 +24,11 @@ One of the first things I had to tackle was dealing with missing or null values.
 In the case of this project, where we are exploring terrorism hotspots, trends over time, and methods of attack, the missing data could significantly impact our insights if not addressed properly.
 
 To streamline the dataset and focus on the project's goals, I narrowed it down to only the columns essential for analyzing trends, hotspots, and attack characteristics. These included fields for date, location, attack type, targets, and impact, such as `iyear`, `country_txt`, `attacktype1_txt`, `nkill`, and `gname`. By selecting just these columns, I ensured the dataset remained manageable and directly relevant to uncovering insights about terrorism.
+
+```python
+import pandas as pd
+df = pd.read_csv('./globalterrorismdb.csv', low_memory=False, engine='c')
+```
 
 ```python
 needed_columns = [
